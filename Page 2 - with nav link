@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Food For Thought </title>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <div class="header">
+      <img src="Logo.png" alt="food4thought"
+      style="height: 10%; width: 10%; align-items: flex-start; align-self: left;">
+        <h2>Search Bar</h2>
+        <nav>
+          <ul>
+            <a href="Home.html">Home</a>
+          </ul>
+        </nav>
+      </div>
+<!-- Link to Home Page -->
+
+
+      </div>
+
+      <div class="flex-containera">
+        <div class="rightcolumn">
+          <div class="card">
+            <h2>Which Country Has The Best Jollof Rice?</h2>
+            <h5> March 2023</h5>
+      
+      <div class="flex-containera">
+        <div class="rightcolumn">
+          <div class="card">
+            <h3>The History of Jollof Rice</h3>
+
+        <img src="Jollof Rice Cover Photo.jpg" alt="Cover Photo"
+        style="width:50%;height:50%">
+            <p>Jollof rice is a spicy African rice dish that cooks in one pan, uses lots of veg and can be a veggie main or a side to some simply baked chicken. As much as we have prominent “jollof wars” between Nigerians and Ghanaians, all centered around who makes the best jollof rice, it actually originates somewhere else. Jollof comes from the Senegambia region of West Africa, particularly Senegal.There are lots of different versions of this dish but here are our top 3 picks!</p>
+          </div>
+          <div class="card">
+
+      <div class="flex-containera">
+        <div class="rightcolumn">
+          <div class="card">
+            <h3>Ghana</h3>
+             <img src="Jollof Rice Ghana.jpg" alt="Ghana"
+             style="width:50%;height:50%">
+            <p style="padding-top: 1%; padding-bottom: 1%;">
+              <b>
+                Ingredients
+              </b>
+            </p>
+            <p>
+                <ul>
+                    <li>2 large yellow onions, roughly chopped </li>
+                    <li>⅓ cup vegetable oil(80 mL), plus 2 tablespoons, divided </li>
+                    <li>14 oz diced tomato(395 g), 2 cans</li>
+                    <li>6 oz tomato paste(170 g), 1 can</li>
+                    <li>1 habanero pepper </li>
+                    <li>2 teaspoons curry powder</li>
+                    <li>1 teaspoon garlic powder </li>
+                    <li>1 teaspoon ground ginger</li>
+                    <li>½ teaspoon mixed dried herbs </li>
+                    <li>3 chicken bouillon cubes, crushed</li>
+                    <li>2 ½ cups long grain rice(500 g), rinsed </li>
+                    <li>1 cup frozen mixed vegetable(150 g)</li>
+                    <li>1 ½ cups water(360 mL)</li>
+                </ul>
+            </p>
+
+            <p style="padding-top: 1%; padding-bottom: 1%;">
+              <b>
+How to make it
+</b>
+</p>
+<ol>
+<li> Add onions and 2 tablespoons of oil to a blender and pulse until smooth. Transfer to a medium bowl.</li>
+<li>Add the diced tomatoes, tomato paste, and habanero pepper to the blender, and pulse until smooth. Transfer to a separate medium bowl.</li>
+<li>Heat the remaining ⅓ cup (80 ml) of oil in a large, heavy-bottomed pot over medium heat.</li>
+<li>Once the oil is shimmering, add the onion puree and cook until the water has cooked out and the puree is starting to brown, about 10 minutes.</li>
+<li>Stir in the tomato puree and add the curry powder, garlic powder, ginger, dried herbs, and crushed bouillon cubes. Cook for 20-30 minutes, stirring occasionally, until the stew has reduced by half and is deep red in color.</li>
+<li>Add the rice, mixed vegetables, and water. Bring to a boil, then reduce the heat to low and cover the pot with foil and a lid. Simmer for another 30 minutes, until the rice is cooked through and the liquid is absorbed.</li>
+<li>Enjoy</li>
+</ol>
+ 
+</ul>
+
+</p>
+
+          </div>
+          <div class="card">
+            <h3>Senegal</h3>
+             <img src="Jollof Rice Senegal.jpg" alt="Senegal"
+             style="width:50%;height:50%">
+             <p style="padding-top: 1%; padding-bottom: 1%;">
+              <b>
+                Ingredients
+              </b>
+            </p>
+             <p>
+                 <ul>
+                     <li>5 tomatoes, chopped </li>
+                     <li>3 red capsicums, chopped</li>
+                     <li>6 small red chillies</li>
+                     <li>100 ml cooking oil </li>
+                     <li>1 Onion, finely chopped</li>
+                     <li>3 golden shallots, finely chopped</li>
+                     <li>3 spring onions, finely chopped </li>
+                     <li>1 celery stalk, chopped</li>
+                     <li>1 handful fresh efiri (African mint) (optional) </li>
+                     <li>pinch of salt</li>
+                     <li>1kg firm fish fillets, such as marlin, cut into large cubes </li>
+                     <li>25g chilli flakes mixed with 1 tsp salt flakes</li>
+                     <li>2  carrots, chopped</li>
+                     <li>1 red capsicum, chopped</li>
+                     <li>1 green capsicum, chopped</li>
+                     <li>2 zucchini (or 2 celery stalks with leaves), chopped</li>
+                     <li>250 ml (1 cup) water </li>
+                     <li>2 cups parboiled long-grain rice</li>
+     
+                 </ul>
+             </p>
+     
+             <p style="padding-top: 1%; padding-bottom: 1%;">
+              <b>
+How to make it
+</b>
+</p>
+     <ol>
+     <li>To make the obe ata, puree the tomato in a food processor or blender. Transfer to a bowl.</li>
+     <li>Puree the capsicum and chilli in a food processor or blender. Transfer to a separate bowl.</li>
+     <li>Heat the oil in a large saucepan over medium heat, add the onion, shallot, spring onion, celery, African mint and salt and sauté, stirring well, until the onions are translucent.</li>
+     <li>Add the tomato puree and the capsicum-chilli puree and cook for 10 minutes.</li>
+     <li>To make the fish and rice, sprinkle the fish with the chilli flakes and salt and set aside.</li>
+     <li>Heat the oil in a large saucepan over medium heat, add the carrot, capsicum, tomato and zucchini and salt, and cook for 10 minutes or until softened a little.</li>
+     <li>Add the fish, water, rice and obe ata sauce. Gently mix together and bring to the boil. Cover with a lid, reduce the heat and simmer for 45 minutes or until the rice and vegetables are cooked.</li>
+     <li>Enjoy</li>
+     </ol>
+     
+     </ul>
+     
+     </p>
+          </div>
+        </div>
+        
+          <div class="flex-containera">
+            <h3>Nigeria</h3>
+        <img src="Jollof Rice Nigeria.jpeg" alt="Nigeria"
+        style="width:50%;height:50%">
+        <p style="padding-top: 1%; padding-bottom: 1%;">
+          <b>
+            Ingredients
+          </b>
+        </p>
+        <p>
+            <ul>
+                <li>400ml/14fl oz passata </li>
+                <li>3 tbsp tomato purée</li>
+                <li>2 fresh red Scotch bonnet chillies, seeds removed</li>
+                <li>2 onions, chopped</li>
+                <li>2 red peppers, seeds removed and roughly chopped</li>
+                <li>8 garlic cloves, peeled</li>
+                <li>3 tbsp fresh rosemary leaves</li>
+                <li>1 tbsp fresh thyme leaves</li>
+                <li>2 tsp ground coriander</li>
+                <li>1½ tsp sweet smoked paprika</li>
+                <li>50ml/2fl oz olive oil</li>
+                <li>150g/5½oz cherry tomatoes, halved</li>
+                <li>800ml/1½ pints chicken stock or vegetable stock</li>
+                <li>2 bay leaves</li>
+                <li>500g/1lb 2oz long-grain rice, rinsed</li>
+                <li>2 tbsp sunflower oil</li>
+                <li>2 ripe plantains, peeled and thickly sliced</li>
+                <li>small handful of coriander leaves, roughly chopped</li>
+                <li>sea salt and freshly ground black pepper</li>
+                <li>green salad, to serve</li>
+
+            </ul>
+        </p>
+
+    
+        <p style="padding-top: 1%; padding-bottom: 1%;">
+          <b>
+How to make it
+</b>
+</p>
+<ol>
+<li>Put the passata, tomato purée, chillies, onions, peppers, garlic, rosemary, thyme, ground coriander and paprika in a blender or food processor and blend until smooth.</li>
+<li>Heat the olive oil in a large saucepan over a medium heat. Add the cherry tomatoes and the blended tomato sauce. Bring to the boil, then reduce the heat slightly and simmer for 5 minutes, stirring occasionally.</li>
+<li>Add the stock, bay leaves, rice, 1½ teaspoons salt and a large pinch of black pepper. Stir to combine and bring to the boil. Reduce the heat and simmer for 10 minutes, stirring frequently to prevent the rice from sticking, until the rice is cooked through. Turn off the heat, cover with the lid and leave to steam for 15 minutes without removing the lid.</li>
+<li>Meanwhile, heat the sunflower oil in a frying pan over a medium heat. Fry the plantain for a few minutes on each side until golden and tender.</li>
+<li>Spoon the jollof rice onto warmed plates and add the plantain on the side. Garnish with the chopped coriander and serve with a green salad alongside.</li>
+<li>Enjoy</li>
+</ol>
+
+</ul>
+<div>
+
+          </div>
+          <div class="card">
+
+            
+            <div class="chefs">
+                <div class="chefs">
+                  <h3>Meet the Chefs</h3>
+                </div>
+
+          </div>
+        </div>
+      </div>
+ <div class="container">
+    <div class="image">
+      <img src="Meet the chiefs - Lauren.jpg" alt="Lauren"
+      style="height: 30%; width: 30%;">
+      <div class="text">
+        <h5>Lauren Swain</h5>
+        </div>
+    </div>
+    <div class="image">
+      <img src="Meet the chiefs - Lauren.jpg" alt="name1"
+      style="height: 30%; width: 30%;">
+      <div class="text">
+        <h5> Maimouna Salif</h5>
+        
+        </div>
+        
+    </div>
+    <div class="image">
+      <img src="Meet the chiefs - Lauren.jpg" alt="name2"
+      style="height: 30%; width: 30%;">
+      <div class="text">
+        <h5>Loren Crane </h5>
+        </div>
+    </div>
+
+      <div class="image">
+        <img src="fiona.jpg" alt="name2"
+        style="height: 30%; width: 30%;">
+        <div class="text">
+          <h5>Fiona Whiteside </h5>
+    
+      </div>
+
+
+</div>
+
+
+  
+  </div>
+
+  <div>
+  <h3>Other articles you might like</h3>
+  </div>
+
+  <div class="otherArticles">
+    <div class="image">
+      <img src="Japanese desserts that are a piece of cake - home page or other article.jpg" alt="Japanese Cake"
+      style="height: 100px; width: 100px;">
+      <div class="text">
+        <h6>Japanese desserts that are a piece of cake </h6>
+        </div>
+    </div>
+    <div class="image">
+      <img src="My My it's American Pie - home page or other articles.jpg" alt="Tacos"
+      style="height: 100px; width: 100px;">
+      <div class="text">
+        <h6>My my American Pie</h6>
+        
+        </div>
+        
+    </div>
+    <div class="image">
+      <img src="Making Curry in a Hurry - home page or other articles.jpg" alt="curry"
+      style="height: 100px; width: 100px;">
+      <div class="text">
+        <h6>Making Curry in a Hurry </h6>
+        
+        </div>
+    </div>
+
+      <div class="image">
+        <img src="Never Regretti the Spagetti again - home page or other articles.jpg" alt="name2"
+        style="height: 100px; width: 100px;">
+        <div class="text">
+          <h6>Never Regretti the Spagetti Again </h6>
+          
+      </div>
+</div>
+
+</div>
+
+<div>
+  <h3>Follow us on</h3>
+</div>
+<div class="footerSocials">
+
+  <div class="image">
+    <img src="twitter_grey_icon.png" alt="twitter"
+    style="height: 50%; width: 50%;">
+    <div class="text">
+      <h6>Twitter</h6>
+      </div>
+  </div>
+  <div class="image">
+    <img src="instagram_grey_icon.png" alt="Insta"
+    style="height: 50%; width: 50%;">
+    <div class="text">
+      <h6>Instagram</h6>
+      
+      </div>
+      
+  </div>
+  <div class="image">
+    <img src="Fgrey.png" alt="FB"
+    style="height: 50%; width: 50%;">
+    <div class="text">
+      <h6>Facebook</h6>
+      
+      </div>
+  </div>
+
+    <div class="image">
+      <img src="tiktok grey.png" alt="Tiktok"
+      style="height: 50%; width: 50%;">
+      <div class="text">
+        <h6>TikTok</h6>
+        
+    </div>
+</div>
+
+</body>
+
+
+
+</html>
+
+
