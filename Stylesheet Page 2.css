@@ -83,3 +83,80 @@ h4{
     font-size: 10x;
     float: bottom;
 }
+
+.header {
+    background-color: gray;
+    color: aliceblue;
+    text-align: right;
+    padding: 5px;
+}
+
+
+img{
+max-width: 320px;
+
+}
+
+h2{
+padding-top: 2%;
+font-weight: bold;
+text-decoration: underline;
+}
+
+img {
+    width: 50%;
+    height:50%;
+}
+
+text{
+    width: 100%;
+    height: 100%;
+}
+
+h3{
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+h5{
+    padding-bottom: 2%;
+}
+.Ingredients{
+    font-weight: bold;
+}
+
+
+
+h4{
+    padding-top: 5%;
+}
+
+.otherArticles{
+
+    background-color: lightsteelblue;
+    display:grid;
+    align-items: center; 
+    column-gap: 0%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.container {
+    display:grid;
+    align-items: center; 
+    column-gap: 0%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.text {
+    font-size: 10x;
+    float: bottom;
+}
+
+.footerSocials {
+    background-color: black;
+    display:grid;
+    align-items: center; 
+    column-gap: 0%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
