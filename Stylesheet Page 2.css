@@ -66,6 +66,9 @@ h4{
     color: aliceblue;
     text-align: left;
     padding: 5px;
+    width: 20%;
+    align-items: center;
+    float:left;
 }
 
 .container {
