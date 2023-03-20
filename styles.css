@@ -4,18 +4,18 @@
     width: 15px;
 }
 
-   .logo { 
+.logo { 
     width: 8vh;
     height: 8vh;
     object-fit: contain;
 }
 
-   .nav { 
+.nav { 
     display: inline-block;
     /* float: right; */
 }
 
-   #search-button{
+#search-button{
     border-radius: 12px;
     border: none;
     padding: 4px 8px;
@@ -55,7 +55,7 @@ li {
     float: left;
 }
 
-   .navItems {
+.navItems {
     display: inline-block;
     /* float: left; */
     text-align: center;
@@ -64,7 +64,7 @@ li {
     cursor: pointer;
 }
 
-   .navItems:hover{
+.navItems:hover{
     color:rgb(0, 145, 242)
 }
    
@@ -76,7 +76,7 @@ ul{
     padding: 0;
 }
 
-   .page-footer{
+.page-footer{
     width: 100vw;
     position: fixed;
     z-index: 100;
@@ -85,7 +85,7 @@ ul{
     background-color: rgb(252, 251, 247);
 }
 
-   .page-footer p{
+.page-footer p{
     text-align: center;
     font-weight: 300;
     font-size: 14px;
@@ -190,8 +190,7 @@ ul{
     padding: auto;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-   }
-
+}
 
 .header {
     background-color: gray;
@@ -220,6 +219,7 @@ h3{
 h5{
     padding-bottom: 2%;
 }
+
 .Ingredients{
     font-weight: bold;
 }
@@ -238,11 +238,11 @@ h4{
 .otherArticles{
     background-color: gray;
     color: aliceblue;
-    text-align: left;
+    text-align: center;
     padding: 5px;
     width: 20%;
     align-items: center;
-    float:left;
+    float:right;
 }
 
 .container {
@@ -298,14 +298,14 @@ h4{
     padding-top: 5%;
 }
 
-.otherArticles{
+/* .otherArticles{
     background-color: lightsteelblue;
     display:grid;
     align-items: center; 
     column-gap: 0%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
-}
+} */
 
 .container {
     display:grid;
@@ -321,8 +321,19 @@ h4{
 
 .footerSocials {
     background-color: black;
-    display:grid;
+    display: grid;
     align-items: center; 
     column-gap: 0%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.main{
+    float: left;
+    width: 70%;
+}
+
+@media screen and (max-width: 800px) {
+    .otherArticles, .main {
+        width: 100%;
+    }
 }
