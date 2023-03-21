@@ -11,7 +11,7 @@
 }
 
 .nav { 
-    display: inline-block;
+     display: inline-block;
      /* float: right; */
 }
 
@@ -64,17 +64,18 @@ li {
     cursor: pointer;
 }
 
+
 .navItems:hover{
     color:rgb(0, 145, 242)
 } 
    
-ul{
-    display: inline-block; 
+ ul{ 
+    /* display: inline-block;  */
     list-style-type: none;
     /* float: right; */
-    margin: 0;
-    padding: 0;
-}
+    /* margin: 0; */
+    /* padding: 0; */
+ } 
 
 .recipe {
     padding-left: 15%;
