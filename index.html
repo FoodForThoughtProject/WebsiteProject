@@ -26,27 +26,28 @@
     </div>
     </header>
  
-    <div class="carousel">
-        <button class="carousel_button carousel_button--left">
-            <img src="" alt=""> <!-- left button-->
+<div class="carousel">
+        <button class="carousel_button carousel_button--left is-hidden" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <img src="next-icon-left.jpg" alt="">
+            <!-- left button -->
         </button>
         <div class="carousel_track-container">
             <ul class="carousel_track">
-                <li class="carousel_slide">
-                    <img class="carousel_images" src="images/Matcha-Cake-with-Red-Beans-and-Rice-Dumpling.png" alt="dessert">
+                <li class="carousel_slide current-slide">
+                    <img class="carousel_image" src="Matcha-Cake-with-Red-Beans-and-Rice-Dumpling.png" alt="dessert">
                 </li>
                 <li class="carousel_slide">
-                    <img class="carousel_images" src="images/Jollof Rice Senegal.jpg" alt="jollo">
+                    <img class="carousel_image" src="Jollof Rice Senegal.jpg" alt="jollo">
                 </li>
                 <li class="carousel_slide">
-                    <img class="carousel_images" src="images/what_are_street_tacos_61096841-8ad2-46ae-b592-69b50a4603e6_1024x.webp" alt="tacos">
+                    <img class="carousel_image" src="what_are_street_tacos_61096841-8ad2-46ae-b592-69b50a4603e6_1024x.webp" alt="tacos">
                 </li>
             </ul>
         </div>
-        <button class="carousel_button carousel_button--right">
-            <img src="" alt=""> <!-- right button-->
+        <button class="carousel_button carousel_button--right" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <img src="next-icon-right.jpg" alt=""> <!-- right button-->
         </button>
-         <div class="carousel_nav">
+        <div class="carousel_nav">
         <button class="carousel_indicator current-slide"></button>
         <button class="carousel_indicator"></button>
         <button class="carousel_indicator"></button>
@@ -105,5 +106,6 @@
             </div>
         </div>
     </footer>
+        <script src="script.js"></script>
 </body>
 </html>
